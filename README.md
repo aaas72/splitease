@@ -30,7 +30,7 @@ Express API ─▶ routes ─▶ validation ─▶ controllers ─▶ Mongoose m
 ```
 
 ```text
-Sp-itEsae/
+splitease/
 ├── SplitEsae/            # Expo React Native app
 │   ├── app/              # Expo Router entry
 │   ├── screens/          # Login, Main, GroupDetail, Debts, Transactions, Analytics, Activities…
